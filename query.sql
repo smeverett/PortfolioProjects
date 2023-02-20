@@ -1,3 +1,7 @@
+/*
+COVID-19 Data Exploration in SQL
+*/
+
 --Previewing the data
 
 SELECT 
